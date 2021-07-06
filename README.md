@@ -1,13 +1,13 @@
 # [WireGuard](https://www.wireguard.com/) для Windows
 
-This is a fully-featured WireGuard client for Windows that uses [Wintun](https://www.wintun.net/). It is the only official and recommended way of using WireGuard on Windows.
+Это полнофункциональный клиент WireGuard для Windows, использующий Wintun. Это единственный официальный и рекомендуемый способ использования WireGuard в Windows.
 
 ## Download &amp; Install
 
-If you've come here looking to simply run WireGuard for Windows, [the main download page has links](https://www.wireguard.com/install/). There you will find two things:
+Если вы пришли сюда, чтобы просто запустить WireGuard для Windows, [на главной странице загрузки есть ссылки] (https://www.wireguard.com/install/). Там вы найдете две вещи:
 
-- [The WireGuard Installer](https://download.wireguard.com/windows-client/wireguard-installer.exe) &ndash; This selects the most recent version for your architecture, downloads it, checks signatures and hashes, and installs it.
-- [Standalone MSIs](https://download.wireguard.com/windows-client/) &ndash; These are for system admins who wish to deploy the MSIs directly. For most end users, the ordinary installer takes care of downloading these automatically.
+- [WireGuard Установщик](https://download.wireguard.com/windows-client/wireguard-installer.exe) &ndash; он выбирает самую последнюю версию для вашей архитектуры, загружает ее, проверяет подписи и хэши и устанавливает ее. 
+- [Оффлайн пакет MSIs](https://download.wireguard.com/windows-client/) &ndash; он предназначен для системных администраторов, желающих развернуть MSI напрямую. Для большинства конечных пользователей рекомендуется использовать обычный установщик. 
 
 ## Documentation
 
