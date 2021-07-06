@@ -1,2 +1,1 @@
-# WireGuard_Rus
-VPN WireGuard для Рускоязного сообщества
+VPN WireGuard RUS
