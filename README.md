@@ -1,4 +1,4 @@
-# [WireGuard](https://www.wireguard.com/) for Windows
+# [WireGuard](https://www.wireguard.com/) для Windows
 
 This is a fully-featured WireGuard client for Windows that uses [Wintun](https://www.wintun.net/). It is the only official and recommended way of using WireGuard on Windows.
 
